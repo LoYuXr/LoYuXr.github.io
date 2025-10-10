@@ -11,9 +11,6 @@ horizontal: false
 
 ## Internship
 
-
-## Internship
-
 <div style="display: flex; align-items: center; gap: 30px; margin-bottom: 20px;">
     <div style="flex-shrink: 0; width: 200px;">
         <img src="/assets/img/msra_logo.png" alt="MSRA Logo" style="width: 100%; max-width: 150px; border-radius: 8px;">

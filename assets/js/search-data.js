@@ -391,14 +391,14 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-callirewrite-recovering-handwriting-behaviors-from-calligraphy-images-without-supervision-has-been-selected-as-a-finalist-for-the-ieee-icra-2024-best-paper-award-in-service-robotics-https-2024-ieee-icra-org-awards-and-finalists-this-research-was-conducted-during-my-undergraduate-studies-under-the-guidance-of-prof-zhouhui-lian",
+            },},{id: "news-callirewrite-recovering-handwriting-behaviors-from-calligraphy-images-without-supervision-has-been-selected-as-a-finalist-for-the-ieee-icra-2024-best-paper-award-in-service-robotics-this-research-was-conducted-during-my-undergraduate-studies-under-the-guidance-of-prof-zhouhui-lian",
           title: 'CalliRewrite: Recovering Handwriting Behaviors from Calligraphy Images without Supervision has been selected as...',
           description: "",
-          section: "News",},{id: "news-callireader-contextualizing-chinese-calligraphy-via-an-embedding-aligned-vision-language-model-was-accepted-by-iccv-2025-this-paperproposes-callireader-a-novel-plug-and-play-vlm-that-solves-chinese-calligraphy-contextualization-problem-we-also-release-the-first-page-level-chinese-calligraphy-dataset-and-callibench",
+          section: "News",},{id: "news-callireader-contextualizing-chinese-calligraphy-via-an-embedding-aligned-vision-language-model-was-accepted-by-iccv-2025-this-paper-proposes-callireader-a-novel-vlm-that-solves-chinese-calligraphy-contextualization-we-also-release-the-first-page-level-calligraphy-dataset-and-callibench",
           title: 'CalliReader: Contextualizing Chinese Calligraphy via an Embedding-aligned Vision Language Model was accepted by...',
           description: "",
-          section: "News",},{id: "news-mmmg-a-massive-multidisciplinary-multi-tier-generation-benchmark-for-text-to-image-reasoning-was-accepted-by-neurips-2025-mmmg-is-a-large-scale-discipline-image-benchmark-designed-to-assess-text-to-image-t2i-models-on-their-ability-to-generate-faithful-and-visually-readable-visuals-based-on-knowledge-intensive-while-concise-prompts-we-collect-4-456-test-cases-spanning-multiple-academic-disciplines-and-educational-levels-we-also-propose-flux-reason-as-an-intermediate-approach-on-discipline-image-generation",
-          title: 'MMMG: A Massive, Multidisciplinary, Multi-Tier Generation Benchmark for Text-to-Image Reasoning was accepted by...',
+          section: "News",},{id: "news-mmmg-was-accepted-by-neurips-2025-mmmg-is-a-large-scale-discipline-image-benchmark-designed-to-assess-text-to-image-t2i-models-on-their-ability-to-generate-faithful-and-readable-visuals-our-cases-span-10-disciplines-and-6-educational-levels",
+          title: 'MMMG was accepted by Neurips 2025! MMMG is a large-scale discipline-image benchmark designed...',
           description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',

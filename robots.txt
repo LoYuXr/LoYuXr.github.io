@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://LoYuXr.github.io/sitemap.xml
+Sitemap: https://loyuxr.github.io/sitemap.xml

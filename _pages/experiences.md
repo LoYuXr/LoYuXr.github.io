@@ -12,16 +12,18 @@ horizontal: false
 ## Internship
 
 
-<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
+## Internship
 
-  <!-- MSRA -->
-  <div style="text-align: center; width: 180px;">
-    <img src="/assets/img/msra_logo.png" alt="MSRA Logo" style="width: 100px; border-radius: 8px;">
-    <div style="font-weight: bold; margin-top: 8px;">Microsoft Research Asia</div>
-    <div style="font-size: 0.9em; color: gray;">Jan 2025 – Jul 2025</div>
-    <div style="font-size: 0.85em; color: #555;">Visual Computing Group</div>
-  </div>
-
+<div style="display: flex; align-items: center; gap: 30px; margin-bottom: 20px;">
+    <div style="flex-shrink: 0; width: 200px;">
+        <img src="/assets/img/msra_logo.png" alt="MSRA Logo" style="width: 100%; max-width: 150px; border-radius: 8px;">
+    </div>
+    
+    <div style="flex-grow: 1;">
+        <div style="font-weight: bold; font-size: 1.2em; margin-bottom: 5px;">Microsoft Research Asia</div>
+        <div style="font-size: 1em; color: #555;">Visual Computing Group</div>
+        <div style="font-size: 0.9em; color: gray; margin-top: 5px;">Jan 2025 – Jul 2025</div>
+    </div>
 </div>
 
 ## Services

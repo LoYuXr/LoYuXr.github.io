@@ -9,14 +9,12 @@ display_categories:
 horizontal: false
 ---
 
-
 ## Services
 
 I serve as reviewer in the following journal:
 
 - Pattern Recognition
 
----
 
 ## Teaching
 

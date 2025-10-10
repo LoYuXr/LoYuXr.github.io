@@ -11,21 +11,17 @@ horizontal: false
 
 ## Internship
 
-<div class="experience-entry">
 
-<img src="/assets/img/msra_logo.png" alt="MSRA Logo" width="60" style="float:left; margin-right:15px; border-radius:8px;">
+<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
-**Microsoft Research Asia (MSRA)**  
-*Visual Computing Group*  
-<span style="color:gray;">Jan 2025 – Jul 2025</span>  
+  <!-- MSRA -->
+  <div style="text-align: center; width: 180px;">
+    <img src="/assets/img/msra_logo.png" alt="MSRA Logo" style="width: 100px; border-radius: 8px;">
+    <div style="font-weight: bold; margin-top: 8px;">Microsoft Research Asia</div>
+    <div style="font-size: 0.9em; color: gray;">Jan 2025 – Jul 2025</div>
+    <div style="font-size: 0.85em; color: #555;">Visual Computing Group</div>
+  </div>
 
-<div style="margin-top:8px;">
-  <span class="badge badge-dark">Diffusion Models</span>
-  <span class="badge badge-dark">Multimodal LLMs</span>
-  <span class="badge badge-dark">Image Understanding</span>
-</div>
-
-Worked on multimodal reasoning and vision-language alignment for image generation and understanding.
 </div>
 
 ## Services

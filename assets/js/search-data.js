@@ -400,6 +400,12 @@ ninja.data = [{
           section: "News",},{id: "news-mmmg-was-accepted-by-neurips-2025-mmmg-is-a-large-scale-discipline-image-benchmark-designed-to-assess-text-to-image-t2i-models-on-their-ability-to-generate-faithful-and-readable-visuals-our-cases-span-10-disciplines-and-6-educational-levels",
           title: 'MMMG was accepted by Neurips 2025! MMMG is a large-scale discipline-image benchmark designed...',
           description: "",
+          section: "News",},{id: "news-gar-font-beyond-patches-global-aware-autoregressive-model-for-multimodal-few-shot-font-generation-was-accepted-by-cvpr-2026-this-work-proposes-a-global-aware-autoregressive-framework-for-few-shot-font-generation-i-am-co-first-author-on-this-paper",
+          title: 'GAR-Font: Beyond Patches: Global-aware Autoregressive Model for Multimodal Few-Shot Font Generation was accepted...',
+          description: "",
+          section: "News",},{id: "news-sciforma-structure-faithful-generation-of-scientific-diagrams-was-accepted-by-siggraph-2026-sciforma-is-a-framework-that-generates-scientific-methodology-diagrams-with-structural-faithfulness-across-components-arrows-and-text",
+          title: 'SciForma: Structure-Faithful Generation of Scientific Diagrams was accepted by SIGGRAPH 2026! SciForma is...',
+          description: "",
           section: "News",},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
@@ -465,13 +471,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://orcid.org/0009-0004-7363-356X# your ORCID ID", "_blank");
-        },
-      },{
-        id: 'social-rss',
-        title: 'RSS Feed',
-        section: 'Socials',
-        handler: () => {
-          window.open("/feed.xml", "_blank");
         },
       },{
         id: 'social-scholar',

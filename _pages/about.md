@@ -25,11 +25,10 @@ I am Yuxuan Luo(罗宇轩), a second year Ph.D. student at Wangxuan Institute of
 
 My research focuses on **understanding and generating knowledge-intensive visual media**. I study how images carry factual, disciplinary, and cultural information:
 
-* how to interpret dense knowledge images, 
-* how to make generative models convey that knowledge precisely, and 
-* how to measure the faithfulness and clarity of generated visuals. 
+- how to interpret dense knowledge images,
+- how to make generative models convey that knowledge precisely, and
+- how to measure the faithfulness and clarity of generated visuals.
 
 This work connects unified multimodal understanding and generation with model reasoning and the broader question of whether generative systems function as world-models.
-
 
 Technically, I focus on multimodal LLMs (mLLMs), diffusion and autoregressive image models, and post-training paradigms such as fine-tuning, LoRA/instruction tuning, and evaluation pipelines. I am actively seeking collaborations — if you're interested in working with me on knowledge images, please contact me by e-mail.

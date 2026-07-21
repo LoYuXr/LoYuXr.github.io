@@ -45,10 +45,9 @@ I serve as reviewer for the following conferences and journals:
 - Pacific Graphics 2026
 - Pattern Recognition
 
-
 ## Teaching
 
 I serve as Teaching Assistant in the following courses at Peking University:
 
-- Computer Vision, Autumn 2024, Autumn 2025  
+- Computer Vision, Autumn 2024, Autumn 2025
 - Introduction to Artificial Intelligence, Spring 2025

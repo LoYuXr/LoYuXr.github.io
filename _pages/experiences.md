@@ -41,15 +41,18 @@ horizontal: false
 ## Services
 
 I serve as reviewer for the following conferences and journals:
-
+- CVPR 2027
+- ICLR 2027
+- Pacific Graphics 2027
+- Pattern Recognition 2027
 - NeurIPS 2026
 - SIGGRAPH Asia 2026 (Tertiary Reviewer)
 - Pacific Graphics 2026
-- Pattern Recognition
+- Pattern Recognition 2026
 
 ## Teaching
 
 I serve as Teaching Assistant in the following courses at Peking University:
 
 - Computer Vision, Autumn 2024, Autumn 2025
-- Introduction to Artificial Intelligence, Spring 2025
+- Introduction to Artificial Intelligence, Spring 2025, Spring 2026

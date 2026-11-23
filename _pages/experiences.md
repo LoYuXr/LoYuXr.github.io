@@ -19,7 +19,7 @@ horizontal: false
     <div style="flex-grow: 1;">
         <div style="font-weight: bold; font-size: 1.2em; margin-bottom: 5px;">Microsoft Research Asia</div>
         <div style="font-size: 1em; color: #555;">Multimedia Computing Group</div>
-        <div style="font-size: 0.9em; color: gray; margin-top: 5px;">Nov 2025 – Jul 2026</div>
+        <div style="font-size: 0.9em; color: gray; margin-top: 5px;">Nov 2025 – present</div>
         <div style="font-size: 0.9em; color: #c0392b; margin-top: 3px;">MSRA Rising Star Award</div>
     </div>
 

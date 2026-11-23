@@ -41,6 +41,7 @@ horizontal: false
 ## Services
 
 I serve as reviewer for the following conferences and journals:
+
 - CVPR 2027
 - ICLR 2027
 - Pacific Graphics 2027

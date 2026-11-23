@@ -1,0 +1,21 @@
+---
+---
+<article class="collaboration-card">
+  <img
+    src="{{ entry.preview | prepend: '/assets/img/publication_preview/' | relative_url }}"
+    alt="{{ entry.project_image_alt | escape }}"
+    loading="lazy"
+  >
+  <div class="collaboration-body">
+    <h3>
+      <a href="{{ entry.website }}">{{ entry.project_name }}</a>
+    </h3>
+    <p>{{ entry.project_summary }}</p>
+    <div class="collaboration-links" role="group" aria-label="{{ entry.project_name }} resources">
+      <a href="{{ entry.pdf }}">Paper</a>
+      <a href="{{ entry.website }}">Project</a>
+      <a href="{{ entry.code }}">Code</a>
+      <a href="{{ entry.model }}">Model</a>
+    </div>
+  </div>
+</article>

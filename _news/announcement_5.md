@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-**SciForma: Structure-Faithful Generation of Scientific Diagrams** was accepted by **SIGGRAPH AISA 2026**! SciForma is a framework that generates scientific methodology diagrams with structural faithfulness across components, arrows, and text.
+**SciForma: Structure-Faithful Generation of Scientific Diagrams** was accepted by **SIGGRAPH Asia 2026**! SciForma is a framework that generates scientific methodology diagrams with structural faithfulness across components, arrows, and text.

@@ -23,6 +23,6 @@ I’m Yuxuan Luo (罗宇轩), a Ph.D. student at the Wangxuan Institute of Compu
 
 I study **how models read and generate images that carry knowledge**. My work ranges from recovering brush movements in Chinese calligraphy to generating scientific diagrams whose arrows and labels preserve the relationships in a paper. I also build benchmarks to test whether those visual details survive generation.
 
-I work with multimodal language models, diffusion models, and autoregressive image generators. At Microsoft Research Asia, I co-authored the **Mage-Flow** and **Mage-VL** technical reports on image generation, editing, and streaming video understanding.
+I use fine-tuning, instruction tuning, and evaluation to study how multimodal models reason about visual structure, including what generative models learn about the world. At Microsoft Research Asia, I co-authored the **Mage-Flow** and **Mage-VL** technical reports on image generation, editing, and streaming video understanding.
 
 I welcome collaborations on knowledge-intensive visual media. [Email me](mailto:{{ site.data.socials.email | encode_email }}) · [Google Scholar](https://scholar.google.com/citations?user={{ site.data.socials.scholar_userid }}) · [GitHub](https://github.com/{{ site.data.socials.github_username }})
